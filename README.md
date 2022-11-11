@@ -1,2 +1,5 @@
-# pokedex-pokemon
- JS - CSS3 e HTML5
+# *Pokedex | Pokemon*
+#### Modified by myself 😀
+
+# Trilha JS Developer - Pokedex
+#### Original project link : https://github.com/digitalinnovationone/js-developer-pokedex
